@@ -12,7 +12,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 public class PrashilInspector {
 
-   11 public static void main(String[] args) {
+   112 public static void main(String[] args) {
         ApplicationContext ctx = SpringApplication.run(PrashilInspector.class, args);
     }
 
